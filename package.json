@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/toneta/cv/issues"
   },
-  "homepage": "https://github.com/toneta/cv#readme"
+  "homepage": "https://github.com/toneta/cv#readme",
+  "dependencies": {
+    "heroku": "^7.19.4"
+  }
 }
